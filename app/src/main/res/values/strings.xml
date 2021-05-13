@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wallpaper Carousel</string>
+    <string name="prompt">select</string>
+
+    <string-array name="country_arrays">
+        <item>1:1</item>
+        <item>1:2</item>
+        <item>2:1</item>
+        <item>3:2</item>
+        <item>2:3</item>
+        <item>3:4</item>
+        <item>4:3</item>
+        <item>16:9</item>
+        <item>9:16</item>
+    </string-array>
+
+</resources>
